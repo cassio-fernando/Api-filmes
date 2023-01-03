@@ -1,0 +1,21 @@
+*{
+    font-family: helvetica;
+    margin: 0;
+    padding: 0;   
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: azure;
+}
+
+a {
+    text-decoration: none;
+    color: darkkhaki;
+    transition: .5s;
+}
+
+a:hover {
+    color: rgb(255, 255, 0);
+}
